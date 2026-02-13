@@ -17,3 +17,10 @@
     background-color:rgb(199, 22, 22);
     color:rgb(255, 255, 255);
 }
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    filter: blur(2px);
+}
